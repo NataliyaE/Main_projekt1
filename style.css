@@ -1,0 +1,56 @@
+.contaener-1{
+   background-color: black;
+h2{color: #1e448a;}
+h1{color: #1a8851;}
+h3{color: rgb(93, 119, 88);}
+
+h1 {
+   font-weight: 400;
+}
+
+h2 {
+   font-weight: 300;
+}
+
+h3 {
+   font-weight: 500;
+}
+h3{
+   text-decoration: none }
+
+:hover{
+   text-decoration: underline rgb(62, 64, 108);
+}
+.warning {
+   color: red;
+}
+}
+
+
+
+.block1 {
+   width: 900px;
+   height: 420px;
+   position: static;
+   animation-name: ss;
+   animation-duration: 6s;
+   animation-iteration-count: infinite;
+}
+@keyframes ss {
+   0% {
+      background-image: url(https://cs6.livemaster.ru/storage/d9/94/a1e4f60278f27a05573de88b5dn2.gif);
+   }
+   100% {
+      background-image: url(https://ds47-nizhnevartovsk-r86.gosweb.gosuslugi.ru/netcat_files/userfiles/bez-imeni-15-vosstanovleno_1.png);
+   }
+}
+
+.footer{
+   background-color: white;
+}
+
+p{visibility: hidden;}
+
+
+
+
