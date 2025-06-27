@@ -1,3 +1,10 @@
+body {
+   font-family:"Playfair Display",Arial,sans-serif ;
+}
+.title {
+   font-family:"Merriweather",Arial,sans-serif;
+}
+
 .contaener-1{
    background-color: black;
 h2{color: #1e448a;}
@@ -25,9 +32,6 @@ h3{
    color: red;
 }
 }
-
-
-
 .block1 {
    width: 900px;
    height: 420px;
@@ -50,6 +54,10 @@ h3{
 }
 
 p{visibility: hidden;}
+
+
+
+
 
 
 
